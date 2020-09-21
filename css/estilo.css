@@ -149,7 +149,7 @@ a > li:hover, .ativo {
 	float: left;
 	width: 960px;
 	height: 420px;
-	background-color: #aa242a;
+	/*background-color: #aa242a;*/
 }
 
 .cols {
